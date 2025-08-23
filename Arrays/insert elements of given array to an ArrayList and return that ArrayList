@@ -1,0 +1,16 @@
+class Solution {
+    public static ArrayList<Integer> fillArrayList(int arr[])               //Given an array arr[] containing integers. 
+    {                                                                      //The task is to insert elements of given array to an ArrayList and return that ArrayList.
+        // Your code here
+        ArrayList<Integer> list = new ArrayList<>();
+        
+        // Loop through the array and add each element to the ArrayList
+        for (int num : arr) {
+            list.add(num);
+        }
+        
+        // Return the populated ArrayList
+        return list;
+    }
+}
+        
