@@ -5,3 +5,6 @@ solving programs
 
 #Day-1
 Second Largest - Done
+
+#2nd feb 
+pascal triangle
